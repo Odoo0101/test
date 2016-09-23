@@ -3,7 +3,7 @@
 int a[1000001] , i=4,n;
 main()
 {
-	scanf("%d",&n);
+	scanf("%d",&n);// garaas utga avah
     a[1]=0; a[2]=1, a[3]=2;
 	for(i=4; i<=n; i++)
 	{
